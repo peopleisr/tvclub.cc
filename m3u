@@ -1,0 +1,653 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Home.uk" group-title="UHD",HOME 4K (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K_HLS/variant.m3u8?version=2&hd
+#EXTINF:0 tvg-id="Insight.eur" group-title="UHD",INSIGHT UHD (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8?version=2&hd
+#EXTINF:0 tvg-id="ext" group-title="UHD",Russian Extreme Ultra (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2&hd
+#EXTINF:0 tvg-id="uhd-cinema" group-title="UHD",Ultra HD Cinema (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&uhd
+
+#EXTINF:0 tvg-id="ort" group-title="Эфирные" timeshift="336",Первый
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1
+#EXTINF:0 tvg-id="ort-hd" group-title="Эфирные" timeshift="336",Первый HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/2
+#EXTINF:0 tvg-id="rtr" group-title="Эфирные" timeshift="336",Россия 1
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/3
+#EXTINF:0 tvg-id="rossiya-hd" group-title="Эфирные" timeshift="336",Россия HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/4
+#EXTINF:0 tvg-id="ntv" group-title="Эфирные" timeshift="336",НТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/5
+#EXTINF:0 tvg-id="ntv" group-title="Эфирные" timeshift="336",НТВ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/6
+#EXTINF:0 tvg-id="ntv-serial" group-title="Эфирные" timeshift="336",НТВ Сериал
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1350
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Эфирные" timeshift="336",НТВ Право
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1351
+#EXTINF:0 tvg-id="ntv-style" group-title="Эфирные" timeshift="336",НТВ Стиль
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1352
+#EXTINF:0 tvg-id="sts" group-title="Эфирные" timeshift="336",СТС
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/7
+#EXTINF:0 tvg-id="tnt" group-title="Эфирные" timeshift="336",ТНТ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/8
+#EXTINF:0 tvg-id="tnt" group-title="Эфирные" timeshift="336",ТНТ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/498
+#EXTINF:0 tvg-id="rentv" group-title="Эфирные" timeshift="336",РЕН ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/9
+#EXTINF:0 tvg-id="rentv" group-title="Эфирные" timeshift="336",РЕН ТВ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1297
+#EXTINF:0 tvg-id="piter" group-title="Эфирные" timeshift="336",5 канал
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/11
+#EXTINF:0 tvg-id="kultura" group-title="Эфирные" timeshift="336",Россия К
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/12
+#EXTINF:0 tvg-id="chetv" group-title="Эфирные" timeshift="336",Че
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/13
+#EXTINF:0 tvg-id="tv3" group-title="Эфирные" timeshift="336",ТВ 3
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/14
+#EXTINF:0 tvg-id="otr" group-title="Эфирные" timeshift="336",ОТР
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/15
+#EXTINF:0 tvg-id="home" group-title="Эфирные" timeshift="336",Домашний
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/16
+#EXTINF:0 tvg-id="zvezda" group-title="Эфирные" timeshift="336",Звезда
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/17
+#EXTINF:0 tvg-id="pobeda" group-title="Эфирные",Победа
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1034
+#EXTINF:0 tvg-id="super" group-title="Эфирные",Супер
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1033
+#EXTINF:0 tvg-id="8-kanal" group-title="Эфирные",8 канал
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/373
+#EXTINF:0 tvg-id="sts-int" group-title="Эфирные" timeshift="336",СТС International
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/374
+#EXTINF:0 tvg-id="ort" group-title="Эфирные" timeshift="336",Первый канал Европа
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/18
+#EXTINF:0 tvg-id="evrazia" group-title="Эфирные",Первый канал Евразия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/585
+
+#EXTINF:0 tvg-id="ntvmir" group-title="Информационные" timeshift="336",НТВ Мир
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/289
+#EXTINF:0 tvg-id="vesti" group-title="Информационные" timeshift="336",Россия 24
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/155
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Информационные",Euronews
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/156
+#EXTINF:0 tvg-id="rbk" group-title="Информационные",РБК ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/157
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Информационные",BBC World News
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/158
+#EXTINF:0 tvg-id="CNN.nws" group-title="Информационные",CNN
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1291
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Информационные",Bloomberg
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/159
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Информационные",CGTN News
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/225
+#EXTINF:0 tvg-id="mir" group-title="Информационные",Мир
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/160
+#EXTINF:0 tvg-id="mir-hd" group-title="Информационные",Мир HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/161
+#EXTINF:0 tvg-id="mir24" group-title="Информационные",Мир 24
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/162
+#EXTINF:0 tvg-id="mir-hd" group-title="Информационные",Мир Premium
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1362
+#EXTINF:0 tvg-id="NHKworld.jp" group-title="Информационные",NHK World TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/163
+#EXTINF:0 tvg-id="rtrpl" group-title="Информационные" timeshift="336",РТР Планета
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/273
+#EXTINF:0 tvg-id="ege" group-title="Информационные",ЕГЭ ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/349
+#EXTINF:0 tvg-id="rtvint" group-title="Информационные" timeshift="336",RTVi
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/274
+
+
+#EXTINF:0 tvg-id="Channel11.il" group-title="Израильские" timeshift="336",KAN 11 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/249
+#EXTINF:0 tvg-id="Channel9.il" group-title="Израильские" timeshift="336",Channel 9 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/246
+#EXTINF:0 tvg-id="Channel9.il" group-title="Израильские" timeshift="336",Channel 9 HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/252
+#EXTINF:0 tvg-id="Channel12.il" group-title="Израильские" timeshift="336",Channel 12 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/245
+#EXTINF:0 tvg-id="Channel13.il" group-title="Израильские" timeshift="336",Channel 13 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1356
+#EXTINF:0 tvg-id="Channel20.il" group-title="Израильские",Channel 20 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/299
+#EXTINF:0 tvg-id="ILand.il" group-title="Израильские" timeshift="336",ILand [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/248
+#EXTINF:0 tvg-id="Kabala.il" group-title="Израильские",Kabala [IL] [Test]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1543
+#EXTINF:0 tvg-id="ext" group-title="Израильские",i24 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1545
+#EXTINF:0 tvg-id="FoodChannel.il" group-title="Израильские",Food Channel [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1312
+#EXTINF:0 tvg-id="TravelChannel.il" group-title="Израильские",Travel Channel [IL] [Test]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1541
+#EXTINF:0 tvg-id="EgoTotal.il" group-title="Израильские",Ego Total [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1542
+#EXTINF:0 tvg-id="HopChildhood.il" group-title="Израильские",Hop! Israeli childhood [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/381
+#EXTINF:0 tvg-id="Hop.il" group-title="Израильские" timeshift="336",Hop [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/388
+#EXTINF:0 tvg-id="Baby.il" group-title="Израильские",Baby [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/389
+#EXTINF:0 tvg-id="Nickelodeon.il" group-title="Израильские" timeshift="336",Nickelodeon [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/386
+#EXTINF:0 tvg-id="NickJr.il" group-title="Израильские" timeshift="336",Nick Jr [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/387
+#EXTINF:0 tvg-id="Disney.il" group-title="Израильские" timeshift="336",Disney Israel [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/380
+#EXTINF:0 tvg-id="DisneyJunior.il" group-title="Израильские" timeshift="336",Disney Jr [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/247
+#EXTINF:0 tvg-id="HOTlulli.il" group-title="Израильские" timeshift="336",Luli [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1504
+#EXTINF:0 tvg-id="Logi.il" group-title="Израильские" timeshift="336",Logi [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1505
+#EXTINF:0 tvg-id="Junior.il" group-title="Израильские",Junior [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1506
+#EXTINF:0 tvg-id="OneHD.il" group-title="Израильские" timeshift="336",ONE HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/385
+#EXTINF:0 tvg-id="Sport1HD.il" group-title="Израильские" timeshift="336",Sport 1 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1502
+#EXTINF:0 tvg-id="Sport2.il" group-title="Израильские",SPORT 2 HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1501
+#EXTINF:0 tvg-id="Sport3HD.il" group-title="Израильские",Sport 3 HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1354
+#EXTINF:0 tvg-id="Sport4HD.il" group-title="Израильские" timeshift="336",Sport 4 HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1355
+#EXTINF:0 tvg-id="Sport5.il" group-title="Израильские" timeshift="336",Sport 5 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/382
+#EXTINF:0 tvg-id="Sport5Plus.il" group-title="Израильские" timeshift="336",Sport 5+ Live HD [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/384
+#EXTINF:0 tvg-id="ext" group-title="Израильские",Sport 5 Stars [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/444
+#EXTINF:0 tvg-id="Viva.il" group-title="Израильские",VIVA [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1509
+#EXTINF:0 tvg-id="VivaPlus.il" group-title="Израильские",Viva+ [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1508
+#EXTINF:0 tvg-id="Zoom.il" group-title="Израильские" timeshift="336",ZOOM [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1503
+#EXTINF:0 tvg-id="Music24.il" group-title="Израильские",Music 24 [IL]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/250
+
+
+
+#EXTINF:0 tvg-id="UFC" group-title="Спорт" timeshift="336",UFC ТВ HD
+http://ruip.tv/9546/video.m3u8?token=u06qiW
+#EXTINF:0 tvg-id="UFC" group-title="Спорт" timeshift="336",UFC Pass
+http://mundotv.xyz:25461/hyfSsXHpsT/BRE0bHfzBa/4692
+#EXTINF:0 tvg-id="match" group-title="Спорт" timeshift="336",Матч ТВ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/20
+#EXTINF:0 tvg-id="sport2_rus" group-title="Спорт" timeshift="336",Матч Игра
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/21
+#EXTINF:0 tvg-id="hd-sport" group-title="Спорт" timeshift="336",Матч Игра HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/24
+#EXTINF:0 tvg-id="sport1_rus" group-title="Спорт" timeshift="336",Матч Арена
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/22
+#EXTINF:0 tvg-id="sport1_hd" group-title="Спорт" timeshift="336",Матч Арена HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/23
+#EXTINF:0 tvg-id="sport-plus" group-title="Спорт" timeshift="336",Матч Страна
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/41
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Спорт" timeshift="336",Eurosport 1
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/25
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Спорт" timeshift="336",Eurosport 1 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/26
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Спорт" timeshift="336",Eurosport 2
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/27
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Спорт" timeshift="336",Eurosport 2 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/28
+#EXTINF:0 tvg-id="futbol" group-title="Спорт",Футбол
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/29
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Спорт",Футбол HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1035
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Спорт" timeshift="336",Матч Премьер
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/31
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Спорт" timeshift="336",Матч Премьер HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/32
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Спорт" timeshift="336",Матч Футбол 1
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/34
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Спорт" timeshift="336",Матч Футбол 1 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/35
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Спорт" timeshift="336",Матч Футбол 2
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/36
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Спорт" timeshift="336",Матч Футбол 2 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/37
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Спорт" timeshift="336",Матч Футбол 3
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/38
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Спорт" timeshift="336",Матч Футбол 3 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/39
+#EXTINF:0 tvg-id="SetantaIreland.uk" group-title="Спорт" timeshift="336",Setanta  Sport Eurasia HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/377
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Спорт" timeshift="336",Setanta Sport Eurasia + HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/378
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Спорт",Super Tennis HD [IT]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/379
+#EXTINF:0 tvg-id="kxl" group-title="Спорт" timeshift="336",КХЛ ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/42
+#EXTINF:0 tvg-id="kxl-hd" group-title="Спорт" timeshift="336",КХЛ ТВ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/43
+#EXTINF:0 tvg-id="boec" group-title="Спорт" timeshift="336",Матч Боец
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/44
+#EXTINF:0 tvg-id="boxtv" group-title="Спорт" timeshift="336",Бокс ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/284
+#EXTINF:0 tvg-id="russkij-extreme" group-title="Спорт",Русский экстрим HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/367
+#EXTINF:0 tvg-id="ExtremeSports.uk" group-title="Спорт",Extreme Sports
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/46
+#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт",Viasat Sport
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/47
+#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт",Viasat Sport HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1288
+#EXTINF:0 tvg-id="konnyj-mir" group-title="Спорт",Конный мир HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/376
+#EXTINF:0 tvg-id="zdorovoe" group-title="Спорт",Здоровое ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/48
+#EXTINF:0 tvg-id="tonus-tv" group-title="Спорт",Тонус ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/352
+#EXTINF:0 tvg-id="zhivi" group-title="Спорт",Живи
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/49
+#EXTINF:0 tvg-id="nautical" group-title="Спорт",Морской
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/50
+
+
+
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Познавательные" timeshift="336",Deluxe Lounge HD
+http://78.26.128.45:8081/live/490/playlist.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Познавательные" timeshift="336",Silence TV WORLD HD
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:0 tvg-id="Earth TV HD " group-title="Познавательные" timeshift="336",Earth TV HD
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Познавательные" timeshift="336",Animal Planet
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/167
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Познавательные" timeshift="336",Animal Planet HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/168
+#EXTINF:0 tvg-id="animal-family-hd" group-title="Познавательные",Animal Family HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/363
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Познавательные" timeshift="336",Discovery Science
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/169
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Познавательные" timeshift="336",Discovery Science HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/170
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Познавательные" timeshift="336",Discovery
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/171
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Познавательные" timeshift="336",Discovery HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/172
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Познавательные" timeshift="336",Discovery Showcase HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/263
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Познавательные" timeshift="336",DTX
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/173
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Познавательные",DTX HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/360
+#EXTINF:0 tvg-id="id-extra" group-title="Познавательные" timeshift="336",ID Xtra
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/174
+#EXTINF:0 tvg-id="id-extra" group-title="Познавательные",ID Xtra HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/361
+#EXTINF:0 tvg-id="kto-est-kto" group-title="Познавательные" timeshift="336",Кто есть кто
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/40
+#EXTINF:0 tvg-id="rt-doc" group-title="Познавательные",Russia Today Doc HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/175
+#EXTINF:0 tvg-id="moya-planeta" group-title="Познавательные" timeshift="336",Моя планета
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/207
+#EXTINF:0 tvg-id="poehali" group-title="Познавательные",Поехали
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/399
+#EXTINF:0 tvg-id="wildnature-hd" group-title="Познавательные",Живая природа HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/253
+#EXTINF:0 tvg-id="open-world" group-title="Познавательные",Открытый мир
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/254
+#EXTINF:0 tvg-id="hdmedia" group-title="Познавательные",HD Media
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1287
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Познавательные" timeshift="336",National Geographic
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/176
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Познавательные" timeshift="336",National Geographic HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/177
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="Познавательные" timeshift="336",Nat Geo Wild
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/178
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Познавательные" timeshift="336",Nat Geo Wild HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/179
+#EXTINF:0 tvg-id="history" group-title="Познавательные" timeshift="336",Viasat History
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/180
+#EXTINF:0 tvg-id="nature-history" group-title="Познавательные" timeshift="336",Viasat Nature/History HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/181
+#EXTINF:0 tvg-id="explorer" group-title="Познавательные",Viasat Explorer
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/182
+#EXTINF:0 tvg-id="24texno" group-title="Познавательные" timeshift="336",24 Техно
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/183
+#EXTINF:0 tvg-id="eureka-hd" group-title="Познавательные" timeshift="336",Eureka HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/185
+#EXTINF:0 tvg-id="iq-hd" group-title="Познавательные" timeshift="336",Планета HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/186
+#EXTINF:0 tvg-id="nano" group-title="Познавательные",Нано ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/187
+#EXTINF:0 tvg-id="nauka" group-title="Познавательные" timeshift="336",Наука 2.0
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/188
+#EXTINF:0 tvg-id="istoria" group-title="Познавательные" timeshift="336",История
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/189
+#EXTINF:0 tvg-id="tvm" group-title="Познавательные",TVMchannel
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/298
+#EXTINF:0 tvg-id="rtgtv" group-title="Познавательные",RTG TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/190
+#EXTINF:0 tvg-id="rtg-hd" group-title="Познавательные" timeshift="336",RTG HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/191
+#EXTINF:0 tvg-id="glazami-turista" group-title="Познавательные",Глазами туриста
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1317
+#EXTINF:0 tvg-id="puteshestviya" group-title="Познавательные" timeshift="336",Телепутешествия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/192
+#EXTINF:0 tvg-id="puteshestviya-hd" group-title="Познавательные" timeshift="336",Teletravel HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/193
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Познавательные" timeshift="336",Travel Channel
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/201
+#EXTINF:0 tvg-id="TravelChannelHD.eu" group-title="Познавательные" timeshift="336",Travel Channel HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/262
+#EXTINF:0 tvg-id="travel+adv" group-title="Познавательные" timeshift="336",Travel+Adventure
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/194
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="Познавательные" timeshift="336",Travel+Adventure HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/195
+#EXTINF:0 tvg-id="zoopark" group-title="Познавательные",Зоопарк
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/196
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Познавательные",Домашние животные
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/197
+#EXTINF:0 tvg-id="psihologiya21" group-title="Познавательные",Психология 21
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/198
+#EXTINF:0 tvg-id="voprosy-i-otvety" group-title="Познавательные",Вопросы и ответы
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/199
+#EXTINF:0 tvg-id="24dok" group-title="Познавательные" timeshift="336",Доктор
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/117
+#EXTINF:0 tvg-id="History.uk" group-title="Познавательные" timeshift="336",History
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/200
+#EXTINF:0 tvg-id="History.uk" group-title="Познавательные" timeshift="336",History HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/362
+#EXTINF:0 tvg-id="H2.uk" group-title="Познавательные" timeshift="336",H2 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1299
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Познавательные",Da Vinci Learning
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/202
+#EXTINF:0 tvg-id="1obr" group-title="Познавательные",Первый образовательный
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/203
+#EXTINF:0 tvg-id="sov-sek" group-title="Познавательные" timeshift="336",Совершенно секретно
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/204
+#EXTINF:0 tvg-id="vremya" group-title="Познавательные" timeshift="336",Время
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/206
+#EXTINF:0 tvg-id="oruszie" group-title="Познавательные" timeshift="336",Оружие
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/275
+
+#EXTINF:0 tvg-id="pyatnica" group-title="Развлекательные" timeshift="336",Пятница!
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/51
+#EXTINF:0 tvg-id="chetv" group-title="Развлекательные",Перец
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1300
+#EXTINF:0 tvg-id="tnt4" group-title="Развлекательные" timeshift="336",ТНТ4
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/52
+#EXTINF:0 tvg-id="kvn-tv" group-title="Развлекательные" timeshift="336",КВН
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/443
+#EXTINF:0 tvg-id="TLC.uk" group-title="Развлекательные" timeshift="336",TLC
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/53
+#EXTINF:0 tvg-id="TLC.uk" group-title="Развлекательные" timeshift="336",TLC HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/54
+#EXTINF:0 tvg-id="avto-plus" group-title="Развлекательные" timeshift="336",Авто Плюс
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/55
+#EXTINF:0 tvg-id="ext" group-title="Развлекательные",Авто Плюс HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1032
+#EXTINF:0 tvg-id="avto24" group-title="Развлекательные" timeshift="336",Авто 24
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/56
+#EXTINF:0 tvg-id="365dney" group-title="Развлекательные" timeshift="336",365 дней
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/57
+#EXTINF:0 tvg-id="usadba" group-title="Развлекательные" timeshift="336",Усадьба
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/58
+#EXTINF:0 tvg-id="drive" group-title="Развлекательные",Драйв
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/59
+#EXTINF:0 tvg-id="tdk" group-title="Развлекательные",ТДК
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/30
+#EXTINF:0 tvg-id="cctv" group-title="Развлекательные",CGTN Русский
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/366
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Развлекательные" timeshift="336",Охота и рыбалка
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/60
+#EXTINF:0 tvg-id="ohotnik-i-rybolov" group-title="Развлекательные",Охотник и Рыболов
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/61
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Развлекательные" timeshift="336",Охотник и Рыболов HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/62
+#EXTINF:0 tvg-id="kuhnya" group-title="Развлекательные" timeshift="336",Кухня ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/63
+#EXTINF:0 tvg-id="eda" group-title="Развлекательные",Еда
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/64
+#EXTINF:0 tvg-id="eda-hd" group-title="Развлекательные" timeshift="336",Еда HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/65
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Развлекательные" timeshift="336",Food Network
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/66
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Развлекательные",Food network HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/357
+#EXTINF:0 tvg-id="telecafe" group-title="Развлекательные" timeshift="336",Телекафе
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/67
+#EXTINF:0 tvg-id="FineLiving.ru" group-title="Развлекательные" timeshift="336",Fine Living
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/68
+#EXTINF:0 tvg-id="sarafan" group-title="Развлекательные" timeshift="336",Сарафан
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/69
+#EXTINF:0 tvg-id="viasat-nature" group-title="Развлекательные",Viasat Nature
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/70
+#EXTINF:0 tvg-id="bober" group-title="Развлекательные",Бобер
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/71
+#EXTINF:0 tvg-id="ocean" group-title="Развлекательные",Океан ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/72
+#EXTINF:0 tvg-id="muztv" group-title="Развлекательные" timeshift="336",Ю ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/73
+#EXTINF:0 tvg-id="globalstar" group-title="Развлекательные",GlobalStar TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/75
+#EXTINF:0 tvg-id="game-show" group-title="Развлекательные",Game Show
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/350
+#EXTINF:0 tvg-id="nostalgia" group-title="Развлекательные" timeshift="336",Ностальгия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/76
+#EXTINF:0 tvg-id="Muzhskoj.ru" group-title="Развлекательные",Мужской
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/77
+#EXTINF:0 tvg-id="hd-life" group-title="Развлекательные" timeshift="336",HD Life
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/80
+#EXTINF:0 tvg-id="OutdoorChannel.eu" group-title="Развлекательные",Outdoor Channel
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/81
+#EXTINF:0 tvg-id="outdoor-hd" group-title="Развлекательные",Outdoor HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1203
+#EXTINF:0 tvg-id="world-fashion" group-title="Развлекательные",World Fashion
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/82
+#EXTINF:0 tvg-id="fashion" group-title="Развлекательные",Fashion TV HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1202
+#EXTINF:0 tvg-id="luxury" group-title="Развлекательные",LUXURY WORLD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1294
+#EXTINF:0 tvg-id="ext" group-title="Развлекательные",Сочи HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/370
+
+#EXTINF:0 tvg-id="kinopokaz" group-title="Кино" timeshift="336",Кинопоказ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/106
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Кино" timeshift="336",Шокирующее HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/260
+#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Кино" timeshift="336",Комедийное HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/261
+#EXTINF:0 tvg-id="kinopremium-hd" group-title="Кино" timeshift="336",Кино премиум HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/265
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Кино" timeshift="336",Остросюжетное HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/266
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="Кино" timeshift="336",Наш детектив HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/267
+#EXTINF:0 tvg-id="nashe-hd" group-title="Кино" timeshift="336",Наш кинороман HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/268
+#EXTINF:0 tvg-id="nashe-lubimoe" group-title="Кино",Наше любимое HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1363
+#EXTINF:0 tvg-id="strashnoe-hd" group-title="Кино" timeshift="336",Страшное HD [Test]
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/259
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Кино" timeshift="336",Киносвидание
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/107
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Кино" timeshift="336",Родное кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/108
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Кино" timeshift="336",Наше новое кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/109
+#EXTINF:0 tvg-id="hd-kino" group-title="Кино" timeshift="336",Киносемья
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/110
+#EXTINF:0 tvg-id="kino-plus" group-title="Кино" timeshift="336",Киномикс
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/152
+#EXTINF:0 tvg-id="ntv-premiera" group-title="Кино" timeshift="336",Кинопремьера HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/154
+#EXTINF:0 tvg-id="komediya" group-title="Кино" timeshift="336",Кинокомедия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/112
+#EXTINF:0 tvg-id="kinohit" group-title="Кино" timeshift="336",Кинохит
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/115
+#EXTINF:0 tvg-id="man-kino" group-title="Кино" timeshift="336",Мужское Кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/151
+#EXTINF:0 tvg-id="man-kino" group-title="Кино" timeshift="336",Мужское кино HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1286
+#EXTINF:0 tvg-id="det" group-title="Кино" timeshift="336",Детский мир / Телеклуб
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/114
+#EXTINF:0 tvg-id="domkino" group-title="Кино" timeshift="336",Дом кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/116
+#EXTINF:0 tvg-id="domkino-prem" group-title="Кино" timeshift="336",Дом кино премиум HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/257
+#EXTINF:0 tvg-id="tochka" group-title="Кино",Точка-ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/390
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="Кино",Cinema
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1357
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Кино" timeshift="336",Zee TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/118
+#EXTINF:0 tvg-id="indiya" group-title="Кино" timeshift="336",Индийское кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/119
+#EXTINF:0 tvg-id="HotBOLLYWOOD.il" group-title="Кино",Bollywood
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/369
+#EXTINF:0 tvg-id="bollywood-hd" group-title="Кино",Bollywood HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/256
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Кино",Hollywood HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1201
+#EXTINF:0 tvg-id="sony-turbo" group-title="Кино" timeshift="336",Sony Turbo
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/120
+#EXTINF:0 tvg-id="set" group-title="Кино" timeshift="336",SET Россия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/121
+#EXTINF:0 tvg-id="set" group-title="Кино" timeshift="336",SET HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/264
+#EXTINF:0 tvg-id="FX.uk" group-title="Кино" timeshift="336",FOX
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/124
+#EXTINF:0 tvg-id="FX.uk" group-title="Кино" timeshift="336",FOX HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/125
+#EXTINF:0 tvg-id="fox-life" group-title="Кино" timeshift="336",Fox Life
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/126
+#EXTINF:0 tvg-id="FoxLife.it" group-title="Кино" timeshift="336",Fox Life HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/127
+#EXTINF:0 tvg-id="axn" group-title="Кино" timeshift="336",Sony Sci-Fi
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/129
+#EXTINF:0 tvg-id="rus-bestseller" group-title="Кино" timeshift="336",Русский бестселлер
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/130
+#EXTINF:0 tvg-id="rus-detective" group-title="Кино" timeshift="336",Русский детектив
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/131
+#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Кино" timeshift="336",Русская комедия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1313
+#EXTINF:0 tvg-id="illuzion" group-title="Кино" timeshift="336",Русский иллюзион
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/132
+#EXTINF:0 tvg-id="illuzion" group-title="Кино",Русский иллюзион HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1030
+#EXTINF:0 tvg-id="rus-roman" group-title="Кино" timeshift="336",Русский роман
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/133
+#EXTINF:0 tvg-id="rus-roman" group-title="Кино" timeshift="336",Русский роман HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/364
+#EXTINF:0 tvg-id="illuzion+" group-title="Кино" timeshift="336",Иллюзион+
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/134
+#EXTINF:0 tvg-id="illuzion+" group-title="Кино",Иллюзион+ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1029
+#EXTINF:0 tvg-id="retro" group-title="Кино" timeshift="336",Ретро
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/122
+#EXTINF:0 tvg-id="nstv" group-title="Кино" timeshift="336",НСТ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/123
+#EXTINF:0 tvg-id="evrokino" group-title="Кино" timeshift="336",Еврокино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/128
+#EXTINF:0 tvg-id="evrokino" group-title="Кино",Еврокино HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1028
+#EXTINF:0 tvg-id="ext" group-title="Кино",Хорошее кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/135
+#EXTINF:0 tvg-id="kino-tv" group-title="Кино" timeshift="336",Кино ТВ HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/368
+#EXTINF:0 tvg-id="sts-love" group-title="Кино" timeshift="336",СТС Love
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/136
+#EXTINF:0 tvg-id="mir-seriala" group-title="Кино",Мир сериала
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/258
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Кино" timeshift="336",CBS Reality
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/113
+#EXTINF:0 tvg-id="tv21" group-title="Кино" timeshift="336",TV-XXI
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/137
+#EXTINF:0 tvg-id="tv1000" group-title="Кино" timeshift="336",TV1000
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/138
+#EXTINF:0 tvg-id="tv1000_rus" group-title="Кино" timeshift="336",TV1000 Русское кино
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/139
+#EXTINF:0 tvg-id="tv1000-action" group-title="Кино" timeshift="336",TV1000 Action
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/140
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Кино" timeshift="336",VIP Comedy HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/141
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Кино" timeshift="336",VIP Megahit HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/142
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Кино" timeshift="336",VIP Premiere HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/143
+#EXTINF:0 tvg-id="ext" group-title="Кино",VIP Serial HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1031
+#EXTINF:0 tvg-id="amedia1" group-title="Кино" timeshift="336",A1
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/144
+#EXTINF:0 tvg-id="amedia1" group-title="Кино",A1 HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/365
+#EXTINF:0 tvg-id="amedia2" group-title="Кино" timeshift="336",A2
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/145
+#EXTINF:0 tvg-id="amedia-hit" group-title="Кино",Amedia HIT HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/153
+#EXTINF:0 tvg-id="amedia-hd" group-title="Кино" timeshift="336",Amedia Premium HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/146
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Кино" timeshift="336",Paramount Channel
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/147
+#EXTINF:0 tvg-id="paramount" group-title="Кино",Paramount Channel HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1302
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Кино" timeshift="336",Paramount Comedy
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/148
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Кино" timeshift="336",Paramount Comedy HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/149
+
+
+
+
+
+
+#EXTINF:0 tvg-id="1hdru" group-title="Музыка",1HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/83
+#EXTINF:0 tvg-id="mtv-rus" group-title="Музыка",MTV Россия
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/86
+#EXTINF:0 tvg-id="MTVDance.eu" group-title="Музыка",MTV Dance
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/87
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="Музыка",MTV Hits
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/88
+#EXTINF:0 tvg-id="MTVRocks.eu" group-title="Музыка",MTV Rocks
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/89
+#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="Музыка",MTV Live HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/90
+#EXTINF:0 tvg-id="mcm-top" group-title="Музыка",MCM
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/85
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Музыка",VH-1 Classic
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/91
+#EXTINF:0 tvg-id="mezzo" group-title="Музыка",Mezzo
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/92
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Музыка",Mezzo HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/93
+#EXTINF:0 tvg-id="c-music" group-title="Музыка",C-Music HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1200
+#EXTINF:0 tvg-id="iconcerts_hd" group-title="Музыка",iConcerts HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1293
+#EXTINF:0 tvg-id="bridge" group-title="Музыка",Bridge TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/95
+#EXTINF:0 tvg-id="bridge-hd" group-title="Музыка",Bridge TV HD
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1311
+#EXTINF:0 tvg-id="topsong" group-title="Музыка",Bridge TV Classic
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/105
+#EXTINF:0 tvg-id="rusong" group-title="Музыка",Bridge TV Русский хит
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/101
+#EXTINF:0 tvg-id="dange" group-title="Музыка",Bridge TV Dance
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/96
+#EXTINF:0 tvg-id="tnt-music" group-title="Музыка",ТНТ Music
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/97
+#EXTINF:0 tvg-id="mb-russia" group-title="Музыка",Music Box Ru
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/99
+#EXTINF:0 tvg-id="rutv" group-title="Музыка",RU.TV
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/94
+#EXTINF:0 tvg-id="muz-tv" group-title="Музыка",Муз ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/84
+#EXTINF:0 tvg-id="muzika1" group-title="Музыка" timeshift="336",Музыка первого
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/100
+#EXTINF:0 tvg-id="europa-plus" group-title="Музыка",Европа Плюс ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/102
+#EXTINF:0 tvg-id="zhara" group-title="Музыка",Жара
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1358
+#EXTINF:0 tvg-id="lya-minor" group-title="Музыка" timeshift="336",Ля-минор
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/98
+#EXTINF:0 tvg-id="shansontv" group-title="Музыка",Шансон ТВ
+http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/285
+
+
+
+
