@@ -1,12 +1,12 @@
+
 #EXTM3U
-#EXTINF:0 tvg-id="Home.uk" group-title="UHD",HOME 4K (UHD)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K_HLS/variant.m3u8?version=2&hd
 #EXTINF:0 tvg-id="Insight.eur" group-title="UHD",INSIGHT UHD (UHD)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8?version=2&hd
 #EXTINF:0 tvg-id="ext" group-title="UHD",Russian Extreme Ultra (UHD)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2&hd
 #EXTINF:0 tvg-id="uhd-cinema" group-title="UHD",Ultra HD Cinema (UHD)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&uhd
+
 
 #EXTINF:0 tvg-id="ort" group-title="Эфирные" timeshift="336",Первый
 http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/1
@@ -171,7 +171,9 @@ http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/250
 #EXTINF:0 tvg-id="UFC" group-title="Спорт" timeshift="336",UFC ТВ HD
 http://ruip.tv/9546/video.m3u8?token=u06qiW
 #EXTINF:0 tvg-id="UFC" group-title="Спорт" timeshift="336",UFC Pass
-http://mundotv.xyz:25461/hyfSsXHpsT/BRE0bHfzBa/4692
+http://39.134.176.169/PLTV/88888888/224/3221226594/index.m3u8
+#EXTINF:0 tvg-id="EUROSPORT4K" group-title="Спорт" timeshift="337",EUROSPORT4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
 #EXTINF:0 tvg-id="match" group-title="Спорт" timeshift="336",Матч ТВ HD
 http://tvclub.cc/play/278813e046098292830bbd6d22dd2809/20
 #EXTINF:0 tvg-id="sport2_rus" group-title="Спорт" timeshift="336",Матч Игра
